@@ -14,7 +14,7 @@ class Book
     
   end 
   
-  def page_count 
+  def page_count=(number)
     
   end 
   
