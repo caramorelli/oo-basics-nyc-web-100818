@@ -10,5 +10,8 @@ class Book
     @title
   end 
   
+  def author=(name)
+  end 
+  
   
 end 
