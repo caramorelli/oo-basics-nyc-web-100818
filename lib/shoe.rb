@@ -18,7 +18,13 @@ class Shoe
     @color 
   end 
   
-  def 
+  def size=(length)
+    @size = length 
+  end 
+  
+  def size 
+    @size 
+  end 
   
   def condition=(wear_level)
     @condition = wear_level
