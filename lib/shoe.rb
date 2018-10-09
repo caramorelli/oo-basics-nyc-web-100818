@@ -38,4 +38,8 @@ class Shoe
     @material = shoe_material
   end 
   
+  def material 
+    @material
+  end 
+  
 end 
