@@ -11,6 +11,10 @@ class Book
   end 
   
   def author=(name)
+    
+  end 
+  
+  def author 
   end 
   
   
