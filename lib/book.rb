@@ -27,6 +27,7 @@ class Book
   end 
   
   def genre=(type)
+    @genre = type
   end 
   
   
