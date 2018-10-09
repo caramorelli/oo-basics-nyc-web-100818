@@ -30,5 +30,9 @@ class Book
     @genre = type
   end 
   
+  def genre 
+    @genre
+  end 
+  
   
 end 
