@@ -18,6 +18,8 @@ class Shoe
     @color 
   end 
   
+  def 
+  
   def condition=(wear_level)
     @condition = wear_level
   end 
