@@ -18,5 +18,8 @@ class Book
     
   end 
   
+  def genre=(type)
+  end 
+  
   
 end 
