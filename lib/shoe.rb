@@ -2,6 +2,8 @@
 
 class Shoe 
   
-  def initialize 
+  def initialize(type)
+    @type = type
   end 
+  
 end 
